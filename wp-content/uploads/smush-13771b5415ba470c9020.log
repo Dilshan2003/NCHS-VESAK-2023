@@ -1,0 +1,639 @@
+[2023-05-05 05:21:40 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : May 05, 2023 05:21:40 
+[2023-05-05 05:26:51 : INFO] - 
+ 
+[2023-05-05 05:26:51 : INFO] - Header for logs at time:  Fri, 05 May 2023 05:26:51 +0000 on https://test.dilstream.com 
+[2023-05-05 05:26:51 : INFO] - WP: 6.2 
+[2023-05-05 05:26:51 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 05:26:51 : INFO] - MySQL: 5.5.5 
+[2023-05-05 05:26:51 : INFO] - WPLANG: en_US 
+[2023-05-05 05:26:51 : INFO] - Server: LiteSpeed 
+[2023-05-05 05:26:51 : INFO] - Outbound connections: N 
+[2023-05-05 05:26:51 : INFO] - safe_mode: 0 
+[2023-05-05 05:26:51 : INFO] - max_execution_time: 1500 
+[2023-05-05 05:26:51 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 05:26:51 : INFO] - multisite: N 
+[2023-05-05 05:26:51 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 05:26:51 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 05:26:51 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 05:26:51 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 05:26:51 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2023-05-05 05:26:51 : INFO] - Task with ID 1 and type (smush) failed with error code exceeded_max_filesize - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/Beautiful Water Surface Lotus Particle Rising Background, Motion Graphics (online-video-cutter.com).gif - cannot be optimized, file size is above service provider limit 
+[2023-05-05 05:26:51 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 05:26:51 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 05:26:51 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 05:26:51 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 05:37:40 : INFO] - 
+ 
+[2023-05-05 05:37:40 : INFO] - Header for logs at time:  Fri, 05 May 2023 05:37:40 +0000 on https://test.dilstream.com 
+[2023-05-05 05:37:40 : INFO] - WP: 6.2 
+[2023-05-05 05:37:40 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 05:37:40 : INFO] - MySQL: 5.5.5 
+[2023-05-05 05:37:40 : INFO] - WPLANG: en_US 
+[2023-05-05 05:37:40 : INFO] - Server: LiteSpeed 
+[2023-05-05 05:37:40 : INFO] - Outbound connections: N 
+[2023-05-05 05:37:40 : INFO] - safe_mode: 0 
+[2023-05-05 05:37:40 : INFO] - max_execution_time: 1500 
+[2023-05-05 05:37:40 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 05:37:40 : INFO] - multisite: N 
+[2023-05-05 05:37:40 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 05:37:40 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 06:34:40 : INFO] - Re_Smush_It_Task with attachment ID : 86, autocreated on : May 05, 2023 06:34:40 
+[2023-05-05 06:39:41 : INFO] - 
+ 
+[2023-05-05 06:39:41 : INFO] - Header for logs at time:  Fri, 05 May 2023 06:39:41 +0000 on https://test.dilstream.com 
+[2023-05-05 06:39:41 : INFO] - WP: 6.2 
+[2023-05-05 06:39:41 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 06:39:41 : INFO] - MySQL: 5.5.5 
+[2023-05-05 06:39:41 : INFO] - WPLANG: en_US 
+[2023-05-05 06:39:41 : INFO] - Server: LiteSpeed 
+[2023-05-05 06:39:41 : INFO] - Outbound connections: N 
+[2023-05-05 06:39:41 : INFO] - safe_mode: 0 
+[2023-05-05 06:39:41 : INFO] - max_execution_time: 1500 
+[2023-05-05 06:39:41 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 06:39:41 : INFO] - multisite: N 
+[2023-05-05 06:39:41 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 06:39:41 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 06:39:41 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 06:39:41 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 06:39:41 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2023-05-05 06:39:41 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-05-05 06:39:41 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 06:39:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 06:39:41 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 06:39:41 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 06:41:36 : INFO] - Re_Smush_It_Task with attachment ID : 91, autocreated on : May 05, 2023 06:41:36 
+[2023-05-05 06:49:46 : INFO] - 
+ 
+[2023-05-05 06:49:46 : INFO] - Header for logs at time:  Fri, 05 May 2023 06:49:46 +0000 on https://test.dilstream.com 
+[2023-05-05 06:49:46 : INFO] - WP: 6.2 
+[2023-05-05 06:49:46 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 06:49:46 : INFO] - MySQL: 5.5.5 
+[2023-05-05 06:49:46 : INFO] - WPLANG: en_US 
+[2023-05-05 06:49:46 : INFO] - Server: LiteSpeed 
+[2023-05-05 06:49:46 : INFO] - Outbound connections: N 
+[2023-05-05 06:49:46 : INFO] - safe_mode: 0 
+[2023-05-05 06:49:46 : INFO] - max_execution_time: 1500 
+[2023-05-05 06:49:46 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 06:49:46 : INFO] - multisite: N 
+[2023-05-05 06:49:46 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 06:49:46 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 06:49:46 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 06:49:46 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 06:49:46 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2023-05-05 06:49:46 : INFO] - Task with ID 3 and type (smush) failed with error code exceeded_max_filesize - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/WhatsApp Video 2023-05-05 at 11.57.59.gif - cannot be optimized, file size is above service provider limit 
+[2023-05-05 06:49:46 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 06:49:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 06:49:46 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 06:49:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 06:59:48 : INFO] - 
+ 
+[2023-05-05 06:59:48 : INFO] - Header for logs at time:  Fri, 05 May 2023 06:59:48 +0000 on https://test.dilstream.com 
+[2023-05-05 06:59:48 : INFO] - WP: 6.2 
+[2023-05-05 06:59:48 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 06:59:48 : INFO] - MySQL: 5.5.5 
+[2023-05-05 06:59:48 : INFO] - WPLANG: en_US 
+[2023-05-05 06:59:48 : INFO] - Server: LiteSpeed 
+[2023-05-05 06:59:48 : INFO] - Outbound connections: N 
+[2023-05-05 06:59:48 : INFO] - safe_mode: 0 
+[2023-05-05 06:59:48 : INFO] - max_execution_time: 1500 
+[2023-05-05 06:59:48 : INFO] - memory_limit: 1024M (used: 6M | 8M) 
+[2023-05-05 06:59:48 : INFO] - multisite: N 
+[2023-05-05 06:59:48 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 06:59:48 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 07:34:02 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : May 05, 2023 07:34:01 
+[2023-05-05 07:39:14 : INFO] - 
+ 
+[2023-05-05 07:39:14 : INFO] - Header for logs at time:  Fri, 05 May 2023 07:39:14 +0000 on https://test.dilstream.com 
+[2023-05-05 07:39:14 : INFO] - WP: 6.2 
+[2023-05-05 07:39:14 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 07:39:14 : INFO] - MySQL: 5.5.5 
+[2023-05-05 07:39:14 : INFO] - WPLANG: en_US 
+[2023-05-05 07:39:14 : INFO] - Server: LiteSpeed 
+[2023-05-05 07:39:14 : INFO] - Outbound connections: N 
+[2023-05-05 07:39:14 : INFO] - safe_mode: 0 
+[2023-05-05 07:39:14 : INFO] - max_execution_time: 1500 
+[2023-05-05 07:39:14 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 07:39:14 : INFO] - multisite: N 
+[2023-05-05 07:39:14 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 07:39:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 07:39:14 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 07:39:14 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 07:39:14 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2023-05-05 07:39:14 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : May 05, 2023 07:34:01 
+[2023-05-05 07:39:14 : INFO] - 75 
+[2023-05-05 07:39:15 : INFO] - Backing up the original image - 2023/05/NCHS-LOGO-updraft-pre-smush-original.png 
+[2023-05-05 07:39:15 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : May 05, 2023 07:34:01 
+[2023-05-05 07:39:15 : INFO] - 75 
+[2023-05-05 07:39:16 : INFO] - Re_Smush_It_Task with attachment ID : 130, autocreated on : May 05, 2023 07:34:01 
+[2023-05-05 07:39:16 : INFO] - 75 
+[2023-05-05 07:39:16 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/NCHS-LOGO.png.The file was compressed from 11.78 KB to 6.40 KB saving 45.72 percent using WP-Optimize 
+[2023-05-05 07:39:16 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2023-05-05 07:39:16 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 07:39:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 07:39:16 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 07:39:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 07:44:00 : INFO] - Re_Smush_It_Task with attachment ID : 132, autocreated on : May 05, 2023 07:44:00 
+[2023-05-05 07:49:45 : INFO] - 
+ 
+[2023-05-05 07:49:45 : INFO] - Header for logs at time:  Fri, 05 May 2023 07:49:45 +0000 on https://test.dilstream.com 
+[2023-05-05 07:49:45 : INFO] - WP: 6.2 
+[2023-05-05 07:49:45 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 07:49:45 : INFO] - MySQL: 5.5.5 
+[2023-05-05 07:49:45 : INFO] - WPLANG: en_US 
+[2023-05-05 07:49:45 : INFO] - Server: LiteSpeed 
+[2023-05-05 07:49:45 : INFO] - Outbound connections: N 
+[2023-05-05 07:49:45 : INFO] - safe_mode: 0 
+[2023-05-05 07:49:45 : INFO] - max_execution_time: 1500 
+[2023-05-05 07:49:45 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 07:49:45 : INFO] - multisite: N 
+[2023-05-05 07:49:45 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 07:49:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 07:49:45 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 07:49:45 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 07:49:45 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2023-05-05 07:49:45 : INFO] - Re_Smush_It_Task with attachment ID : 132, autocreated on : May 05, 2023 07:44:00 
+[2023-05-05 07:49:45 : INFO] - 75 
+[2023-05-05 07:49:46 : INFO] - Backing up the original image - 2023/05/Untitled-design-updraft-pre-smush-original.png 
+[2023-05-05 07:49:46 : INFO] - Re_Smush_It_Task with attachment ID : 132, autocreated on : May 05, 2023 07:44:00 
+[2023-05-05 07:49:46 : INFO] - 75 
+[2023-05-05 07:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 132, autocreated on : May 05, 2023 07:44:00 
+[2023-05-05 07:49:47 : INFO] - 75 
+[2023-05-05 07:49:48 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/Untitled-design.png.The file was compressed from 36.47 KB to 15.13 KB saving 58.51 percent using WP-Optimize 
+[2023-05-05 07:49:48 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2023-05-05 07:49:48 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 07:49:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 07:49:48 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 07:49:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 07:57:17 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 07:59:56 : INFO] - 
+ 
+[2023-05-05 07:59:56 : INFO] - Header for logs at time:  Fri, 05 May 2023 07:59:56 +0000 on https://test.dilstream.com 
+[2023-05-05 07:59:56 : INFO] - WP: 6.2 
+[2023-05-05 07:59:56 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 07:59:56 : INFO] - MySQL: 5.5.5 
+[2023-05-05 07:59:56 : INFO] - WPLANG: en_US 
+[2023-05-05 07:59:56 : INFO] - Server: LiteSpeed 
+[2023-05-05 07:59:56 : INFO] - Outbound connections: N 
+[2023-05-05 07:59:56 : INFO] - safe_mode: 0 
+[2023-05-05 07:59:56 : INFO] - max_execution_time: 1500 
+[2023-05-05 07:59:56 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 07:59:56 : INFO] - multisite: N 
+[2023-05-05 07:59:56 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 07:59:56 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 07:59:56 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 07:59:56 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 07:59:56 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2023-05-05 07:59:56 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 07:59:57 : INFO] - 75 
+[2023-05-05 07:59:58 : INFO] - Backing up the original image - 2023/05/WhatsApp-Image-2023-05-05-at-13.25.53-updraft-pre-smush-original.jpg 
+[2023-05-05 07:59:58 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 07:59:58 : INFO] - 75 
+[2023-05-05 07:59:59 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 07:59:59 : INFO] - 75 
+[2023-05-05 08:00:00 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 08:00:00 : INFO] - 75 
+[2023-05-05 08:00:01 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : May 05, 2023 07:57:17 
+[2023-05-05 08:00:01 : INFO] - 75 
+[2023-05-05 08:00:02 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-05-at-13.25.53.jpg.The file was compressed from 31.19 KB to 28.41 KB saving 8.91 percent using WP-Optimize 
+[2023-05-05 08:00:02 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2023-05-05 08:00:02 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 08:00:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 08:00:02 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 08:00:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 08:03:50 : INFO] - Re_Smush_It_Task with attachment ID : 172, autocreated on : May 05, 2023 08:03:50 
+[2023-05-05 08:10:01 : INFO] - 
+ 
+[2023-05-05 08:10:01 : INFO] - Header for logs at time:  Fri, 05 May 2023 08:10:01 +0000 on https://test.dilstream.com 
+[2023-05-05 08:10:01 : INFO] - WP: 6.2 
+[2023-05-05 08:10:01 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 08:10:01 : INFO] - MySQL: 5.5.5 
+[2023-05-05 08:10:01 : INFO] - WPLANG: en_US 
+[2023-05-05 08:10:01 : INFO] - Server: LiteSpeed 
+[2023-05-05 08:10:01 : INFO] - Outbound connections: N 
+[2023-05-05 08:10:01 : INFO] - safe_mode: 0 
+[2023-05-05 08:10:01 : INFO] - max_execution_time: 1500 
+[2023-05-05 08:10:01 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 08:10:01 : INFO] - multisite: N 
+[2023-05-05 08:10:01 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 08:10:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 08:10:01 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 08:10:01 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 08:10:01 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-05-05 08:10:01 : INFO] - Re_Smush_It_Task with attachment ID : 172, autocreated on : May 05, 2023 08:03:50 
+[2023-05-05 08:10:02 : INFO] - 75 
+[2023-05-05 08:10:06 : INFO] - Backing up the original image - 2023/05/Sasindu-Dilshan-scaled-e1683273887227-updraft-pre-smush-original.jpg 
+[2023-05-05 08:10:06 : INFO] - Re_Smush_It_Task with attachment ID : 172, autocreated on : May 05, 2023 08:03:50 
+[2023-05-05 08:10:06 : INFO] - 75 
+[2023-05-05 08:10:07 : INFO] - Re_Smush_It_Task with attachment ID : 172, autocreated on : May 05, 2023 08:03:50 
+[2023-05-05 08:10:07 : INFO] - 75 
+[2023-05-05 08:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 172, autocreated on : May 05, 2023 08:03:50 
+[2023-05-05 08:10:58 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:38 : INFO] - 
+ 
+[2023-05-05 08:20:38 : INFO] - Header for logs at time:  Fri, 05 May 2023 08:20:38 +0000 on https://test.dilstream.com 
+[2023-05-05 08:20:38 : INFO] - WP: 6.2 
+[2023-05-05 08:20:38 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 08:20:38 : INFO] - MySQL: 5.5.5 
+[2023-05-05 08:20:38 : INFO] - WPLANG: en_US 
+[2023-05-05 08:20:38 : INFO] - Server: LiteSpeed 
+[2023-05-05 08:20:38 : INFO] - Outbound connections: N 
+[2023-05-05 08:20:38 : INFO] - safe_mode: 0 
+[2023-05-05 08:20:38 : INFO] - max_execution_time: 1500 
+[2023-05-05 08:20:38 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 08:20:38 : INFO] - multisite: N 
+[2023-05-05 08:20:38 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 08:20:38 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 08:20:38 : INFO] - Lock (updraft_lock_smush, test_options) acquired 
+[2023-05-05 08:20:38 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-05-05 08:20:38 : INFO] - Task with ID 7 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-05-05 08:20:38 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2023-05-05 08:20:38 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:39 : INFO] - 75 
+[2023-05-05 08:20:46 : INFO] - Backing up the original image - 2023/05/Untitled-design-1-updraft-pre-smush-original.png 
+[2023-05-05 08:20:47 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:47 : INFO] - 75 
+[2023-05-05 08:20:49 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:49 : INFO] - 75 
+[2023-05-05 08:20:55 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:55 : INFO] - 75 
+[2023-05-05 08:20:57 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 05, 2023 08:10:58 
+[2023-05-05 08:20:57 : INFO] - 75 
+[2023-05-05 08:21:01 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/Untitled-design-1.png.The file was compressed from 2.26 MB to 585.73 KB saving 74.75 percent using WP-Optimize 
+[2023-05-05 08:21:01 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2023-05-05 08:21:01 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 08:21:01 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-05-05 08:21:01 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 08:21:01 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-05-05 08:30:39 : INFO] - 
+ 
+[2023-05-05 08:30:39 : INFO] - Header for logs at time:  Fri, 05 May 2023 08:30:39 +0000 on https://test.dilstream.com 
+[2023-05-05 08:30:39 : INFO] - WP: 6.2 
+[2023-05-05 08:30:39 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 08:30:39 : INFO] - MySQL: 5.5.5 
+[2023-05-05 08:30:39 : INFO] - WPLANG: en_US 
+[2023-05-05 08:30:39 : INFO] - Server: LiteSpeed 
+[2023-05-05 08:30:39 : INFO] - Outbound connections: N 
+[2023-05-05 08:30:39 : INFO] - safe_mode: 0 
+[2023-05-05 08:30:39 : INFO] - max_execution_time: 1500 
+[2023-05-05 08:30:39 : INFO] - memory_limit: 1024M (used: 6.1M | 2M) 
+[2023-05-05 08:30:39 : INFO] - multisite: N 
+[2023-05-05 08:30:39 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 08:30:39 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 08:59:59 : INFO] - Re_Smush_It_Task with attachment ID : 216, autocreated on : May 05, 2023 08:59:59 
+[2023-05-05 09:05:04 : INFO] - 
+ 
+[2023-05-05 09:05:04 : INFO] - Header for logs at time:  Fri, 05 May 2023 09:05:04 +0000 on https://test.dilstream.com 
+[2023-05-05 09:05:04 : INFO] - WP: 6.2 
+[2023-05-05 09:05:04 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 09:05:04 : INFO] - MySQL: 5.5.5 
+[2023-05-05 09:05:04 : INFO] - WPLANG: en_US 
+[2023-05-05 09:05:04 : INFO] - Server: LiteSpeed 
+[2023-05-05 09:05:04 : INFO] - Outbound connections: N 
+[2023-05-05 09:05:04 : INFO] - safe_mode: 0 
+[2023-05-05 09:05:04 : INFO] - max_execution_time: 1500 
+[2023-05-05 09:05:04 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 09:05:04 : INFO] - multisite: N 
+[2023-05-05 09:05:04 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 09:05:04 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 09:05:04 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 09:05:04 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 09:05:04 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2023-05-05 09:05:04 : INFO] - Task with ID 9 and type (smush) failed with error code exceeded_max_filesize - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/lantern 5.gif - cannot be optimized, file size is above service provider limit 
+[2023-05-05 09:05:04 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 09:05:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 09:05:04 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 09:05:04 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 09:15:04 : INFO] - 
+ 
+[2023-05-05 09:15:04 : INFO] - Header for logs at time:  Fri, 05 May 2023 09:15:04 +0000 on https://test.dilstream.com 
+[2023-05-05 09:15:04 : INFO] - WP: 6.2 
+[2023-05-05 09:15:04 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 09:15:04 : INFO] - MySQL: 5.5.5 
+[2023-05-05 09:15:04 : INFO] - WPLANG: en_US 
+[2023-05-05 09:15:04 : INFO] - Server: LiteSpeed 
+[2023-05-05 09:15:04 : INFO] - Outbound connections: N 
+[2023-05-05 09:15:04 : INFO] - safe_mode: 0 
+[2023-05-05 09:15:04 : INFO] - max_execution_time: 1500 
+[2023-05-05 09:15:04 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 09:15:04 : INFO] - multisite: N 
+[2023-05-05 09:15:04 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 09:15:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 09:41:04 : INFO] - Re_Smush_It_Task with attachment ID : 234, autocreated on : May 05, 2023 09:41:04 
+[2023-05-05 09:41:20 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:44:06 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : May 05, 2023 09:44:06 
+[2023-05-05 09:48:00 : INFO] - 
+ 
+[2023-05-05 09:48:00 : INFO] - Header for logs at time:  Fri, 05 May 2023 09:48:00 +0000 on https://test.dilstream.com 
+[2023-05-05 09:48:00 : INFO] - WP: 6.2 
+[2023-05-05 09:48:00 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 09:48:00 : INFO] - MySQL: 5.5.5 
+[2023-05-05 09:48:00 : INFO] - WPLANG: en_US 
+[2023-05-05 09:48:00 : INFO] - Server: LiteSpeed 
+[2023-05-05 09:48:00 : INFO] - Outbound connections: N 
+[2023-05-05 09:48:00 : INFO] - safe_mode: 0 
+[2023-05-05 09:48:00 : INFO] - max_execution_time: 1500 
+[2023-05-05 09:48:00 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 09:48:00 : INFO] - multisite: N 
+[2023-05-05 09:48:00 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 09:48:00 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 09:48:00 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 09:48:00 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 09:48:00 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2023-05-05 09:48:00 : INFO] - Re_Smush_It_Task with attachment ID : 234, autocreated on : May 05, 2023 09:41:04 
+[2023-05-05 09:48:00 : INFO] - 75 
+[2023-05-05 09:48:03 : INFO] - Backing up the original image - 2023/05/happy-vesak-day-greeting_59094-15-updraft-pre-smush-original.png 
+[2023-05-05 09:48:03 : INFO] - Re_Smush_It_Task with attachment ID : 234, autocreated on : May 05, 2023 09:41:04 
+[2023-05-05 09:48:03 : INFO] - 75 
+[2023-05-05 09:48:04 : INFO] - Re_Smush_It_Task with attachment ID : 234, autocreated on : May 05, 2023 09:41:04 
+[2023-05-05 09:48:04 : INFO] - 75 
+[2023-05-05 09:48:05 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/happy-vesak-day-greeting_59094-15.png.The file was compressed from 139.87 KB to 78.45 KB saving 43.91 percent using WP-Optimize 
+[2023-05-05 09:48:05 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2023-05-05 09:48:05 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2023-05-05 09:48:05 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:05 : INFO] - 75 
+[2023-05-05 09:48:07 : INFO] - Backing up the original image - 2023/05/cropped-happy-vesak-day-greeting_59094-15-updraft-pre-smush-original.png 
+[2023-05-05 09:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:07 : INFO] - 75 
+[2023-05-05 09:48:08 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:08 : INFO] - 75 
+[2023-05-05 09:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:09 : INFO] - 75 
+[2023-05-05 09:48:10 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:11 : INFO] - 75 
+[2023-05-05 09:48:11 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:11 : INFO] - 75 
+[2023-05-05 09:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 05, 2023 09:41:20 
+[2023-05-05 09:48:12 : INFO] - 75 
+[2023-05-05 09:48:13 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/cropped-happy-vesak-day-greeting_59094-15.png.The file was compressed from 124.68 KB to 57.38 KB saving 53.97 percent using WP-Optimize 
+[2023-05-05 09:48:13 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2023-05-05 09:48:13 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2023-05-05 09:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : May 05, 2023 09:44:06 
+[2023-05-05 09:48:13 : INFO] - 75 
+[2023-05-05 09:48:14 : INFO] - Backing up the original image - 2023/05/giphy-updraft-pre-smush-original.gif 
+[2023-05-05 09:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 237, autocreated on : May 05, 2023 09:44:06 
+[2023-05-05 09:48:14 : INFO] - 75 
+[2023-05-05 09:48:15 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/giphy.gif.The file was compressed from 32.78 KB to 32.78 KB saving 0 percent using WP-Optimize 
+[2023-05-05 09:48:15 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2023-05-05 09:48:15 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 09:48:15 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-05-05 09:48:15 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 09:48:15 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-05-05 09:59:08 : INFO] - 
+ 
+[2023-05-05 09:59:08 : INFO] - Header for logs at time:  Fri, 05 May 2023 09:59:08 +0000 on https://test.dilstream.com 
+[2023-05-05 09:59:08 : INFO] - WP: 6.2 
+[2023-05-05 09:59:08 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 09:59:08 : INFO] - MySQL: 5.5.5 
+[2023-05-05 09:59:08 : INFO] - WPLANG: en_US 
+[2023-05-05 09:59:08 : INFO] - Server: LiteSpeed 
+[2023-05-05 09:59:08 : INFO] - Outbound connections: N 
+[2023-05-05 09:59:08 : INFO] - safe_mode: 0 
+[2023-05-05 09:59:08 : INFO] - max_execution_time: 1500 
+[2023-05-05 09:59:08 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 09:59:08 : INFO] - multisite: N 
+[2023-05-05 09:59:08 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 09:59:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 10:27:15 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : May 05, 2023 10:27:15 
+[2023-05-05 10:32:38 : INFO] - 
+ 
+[2023-05-05 10:32:38 : INFO] - Header for logs at time:  Fri, 05 May 2023 10:32:38 +0000 on https://test.dilstream.com 
+[2023-05-05 10:32:38 : INFO] - WP: 6.2 
+[2023-05-05 10:32:38 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 10:32:38 : INFO] - MySQL: 5.5.5 
+[2023-05-05 10:32:38 : INFO] - WPLANG: en_US 
+[2023-05-05 10:32:38 : INFO] - Server: LiteSpeed 
+[2023-05-05 10:32:38 : INFO] - Outbound connections: N 
+[2023-05-05 10:32:38 : INFO] - safe_mode: 0 
+[2023-05-05 10:32:38 : INFO] - max_execution_time: 1500 
+[2023-05-05 10:32:38 : INFO] - memory_limit: 1024M (used: 6.1M | 6M) 
+[2023-05-05 10:32:38 : INFO] - multisite: N 
+[2023-05-05 10:32:38 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 10:32:38 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 10:32:38 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 10:32:38 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 10:32:38 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2023-05-05 10:32:38 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : May 05, 2023 10:27:15 
+[2023-05-05 10:32:38 : INFO] - 75 
+[2023-05-05 10:32:39 : INFO] - Backing up the original image - 2023/05/download-e1683282484912-updraft-pre-smush-original.jpeg 
+[2023-05-05 10:32:39 : INFO] - Re_Smush_It_Task with attachment ID : 260, autocreated on : May 05, 2023 10:27:15 
+[2023-05-05 10:32:39 : INFO] - 75 
+[2023-05-05 10:32:40 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/download-e1683282484912.jpeg.The file was compressed from 8.83 KB to 6.56 KB saving 25.68 percent using WP-Optimize 
+[2023-05-05 10:32:40 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2023-05-05 10:32:40 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 10:32:40 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 10:32:40 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 10:32:40 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 10:46:14 : INFO] - 
+ 
+[2023-05-05 10:46:14 : INFO] - Header for logs at time:  Fri, 05 May 2023 10:46:14 +0000 on https://test.dilstream.com 
+[2023-05-05 10:46:14 : INFO] - WP: 6.2 
+[2023-05-05 10:46:14 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 10:46:14 : INFO] - MySQL: 5.5.5 
+[2023-05-05 10:46:14 : INFO] - WPLANG: en_US 
+[2023-05-05 10:46:14 : INFO] - Server: LiteSpeed 
+[2023-05-05 10:46:14 : INFO] - Outbound connections: N 
+[2023-05-05 10:46:14 : INFO] - safe_mode: 0 
+[2023-05-05 10:46:14 : INFO] - max_execution_time: 1500 
+[2023-05-05 10:46:14 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 10:46:14 : INFO] - multisite: N 
+[2023-05-05 10:46:14 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 10:46:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 10:50:14 : INFO] - Re_Smush_It_Task with attachment ID : 267, autocreated on : May 05, 2023 10:50:14 
+[2023-05-05 10:52:54 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:18 : INFO] - 
+ 
+[2023-05-05 10:55:18 : INFO] - Header for logs at time:  Fri, 05 May 2023 10:55:18 +0000 on https://test.dilstream.com 
+[2023-05-05 10:55:18 : INFO] - WP: 6.2 
+[2023-05-05 10:55:18 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 10:55:18 : INFO] - MySQL: 5.5.5 
+[2023-05-05 10:55:18 : INFO] - WPLANG: en_US 
+[2023-05-05 10:55:18 : INFO] - Server: LiteSpeed 
+[2023-05-05 10:55:18 : INFO] - Outbound connections: N 
+[2023-05-05 10:55:18 : INFO] - safe_mode: 0 
+[2023-05-05 10:55:18 : INFO] - max_execution_time: 1500 
+[2023-05-05 10:55:18 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 10:55:18 : INFO] - multisite: N 
+[2023-05-05 10:55:18 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 10:55:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 10:55:18 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 10:55:18 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 10:55:18 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2023-05-05 10:55:19 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:19 : INFO] - 75 
+[2023-05-05 10:55:20 : INFO] - Backing up the original image - 2023/05/WhatsApp-Image-2023-05-05-at-16.05.32-e1683284014279-updraft-pre-smush-original.jpg 
+[2023-05-05 10:55:20 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:20 : INFO] - 75 
+[2023-05-05 10:55:21 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:21 : INFO] - 75 
+[2023-05-05 10:55:23 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:23 : INFO] - 75 
+[2023-05-05 10:55:23 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:24 : INFO] - 75 
+[2023-05-05 10:55:25 : INFO] - Re_Smush_It_Task with attachment ID : 277, autocreated on : May 05, 2023 10:52:54 
+[2023-05-05 10:55:25 : INFO] - 75 
+[2023-05-05 10:55:27 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-05-at-16.05.32-e1683284014279.jpg.The file was compressed from 65.91 KB to 57.86 KB saving 12.21 percent using WP-Optimize 
+[2023-05-05 10:55:27 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2023-05-05 10:55:27 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2023-05-05 10:55:27 : INFO] - Task with ID 14 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-05-05 10:55:27 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 10:55:27 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-05-05 10:55:27 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 10:55:27 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-05-05 11:02:16 : INFO] - Re_Smush_It_Task with attachment ID : 284, autocreated on : May 05, 2023 11:02:16 
+[2023-05-05 11:05:20 : INFO] - 
+ 
+[2023-05-05 11:05:20 : INFO] - Header for logs at time:  Fri, 05 May 2023 11:05:20 +0000 on https://test.dilstream.com 
+[2023-05-05 11:05:20 : INFO] - WP: 6.2 
+[2023-05-05 11:05:20 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 11:05:20 : INFO] - MySQL: 5.5.5 
+[2023-05-05 11:05:20 : INFO] - WPLANG: en_US 
+[2023-05-05 11:05:20 : INFO] - Server: LiteSpeed 
+[2023-05-05 11:05:20 : INFO] - Outbound connections: N 
+[2023-05-05 11:05:20 : INFO] - safe_mode: 0 
+[2023-05-05 11:05:20 : INFO] - max_execution_time: 1500 
+[2023-05-05 11:05:20 : INFO] - memory_limit: 1024M (used: 6.1M | 8M) 
+[2023-05-05 11:05:20 : INFO] - multisite: N 
+[2023-05-05 11:05:20 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 11:05:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 11:05:20 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 11:05:20 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 11:05:20 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2023-05-05 11:05:20 : INFO] - Task with ID 16 and type (smush) failed with error code exceeded_max_filesize - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/lantern 6 new.gif - cannot be optimized, file size is above service provider limit 
+[2023-05-05 11:05:20 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 11:05:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 11:05:20 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 11:05:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 11:16:08 : INFO] - 
+ 
+[2023-05-05 11:16:08 : INFO] - Header for logs at time:  Fri, 05 May 2023 11:16:08 +0000 on https://test.dilstream.com 
+[2023-05-05 11:16:08 : INFO] - WP: 6.2 
+[2023-05-05 11:16:08 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 11:16:08 : INFO] - MySQL: 5.5.5 
+[2023-05-05 11:16:08 : INFO] - WPLANG: en_US 
+[2023-05-05 11:16:08 : INFO] - Server: LiteSpeed 
+[2023-05-05 11:16:08 : INFO] - Outbound connections: N 
+[2023-05-05 11:16:08 : INFO] - safe_mode: 0 
+[2023-05-05 11:16:08 : INFO] - max_execution_time: 1500 
+[2023-05-05 11:16:08 : INFO] - memory_limit: 1024M (used: 6.4M | 8M) 
+[2023-05-05 11:16:08 : INFO] - multisite: N 
+[2023-05-05 11:16:08 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 11:16:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-05-05 11:41:04 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : May 05, 2023 11:41:03 
+[2023-05-05 11:46:07 : INFO] - 
+ 
+[2023-05-05 11:46:07 : INFO] - Header for logs at time:  Fri, 05 May 2023 11:46:07 +0000 on https://test.dilstream.com 
+[2023-05-05 11:46:07 : INFO] - WP: 6.2 
+[2023-05-05 11:46:07 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 11:46:07 : INFO] - MySQL: 5.5.5 
+[2023-05-05 11:46:07 : INFO] - WPLANG: en_US 
+[2023-05-05 11:46:07 : INFO] - Server: LiteSpeed 
+[2023-05-05 11:46:07 : INFO] - Outbound connections: N 
+[2023-05-05 11:46:07 : INFO] - safe_mode: 0 
+[2023-05-05 11:46:07 : INFO] - max_execution_time: 1500 
+[2023-05-05 11:46:07 : INFO] - memory_limit: 1024M (used: 6.4M | 8M) 
+[2023-05-05 11:46:07 : INFO] - multisite: N 
+[2023-05-05 11:46:07 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 11:46:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 11:46:07 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 11:46:07 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 11:46:07 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2023-05-05 11:46:07 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : May 05, 2023 11:41:03 
+[2023-05-05 11:46:08 : INFO] - 75 
+[2023-05-05 11:46:09 : INFO] - Backing up the original image - 2023/05/WhatsApp-Image-2023-05-05-at-16.44.43-updraft-pre-smush-original.jpg 
+[2023-05-05 11:46:09 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : May 05, 2023 11:41:03 
+[2023-05-05 11:46:09 : INFO] - 75 
+[2023-05-05 11:46:09 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : May 05, 2023 11:41:03 
+[2023-05-05 11:46:10 : INFO] - 75 
+[2023-05-05 11:46:10 : INFO] - Re_Smush_It_Task with attachment ID : 288, autocreated on : May 05, 2023 11:41:03 
+[2023-05-05 11:46:10 : INFO] - 75 
+[2023-05-05 11:46:12 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-05-at-16.44.43.jpg.The file was compressed from 42.38 KB to 42.11 KB saving 0.63 percent using WP-Optimize 
+[2023-05-05 11:46:12 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2023-05-05 11:46:12 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 11:46:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 11:46:12 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 11:46:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 11:55:20 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:19 : INFO] - 
+ 
+[2023-05-05 11:56:19 : INFO] - Header for logs at time:  Fri, 05 May 2023 11:56:19 +0000 on https://test.dilstream.com 
+[2023-05-05 11:56:19 : INFO] - WP: 6.2 
+[2023-05-05 11:56:19 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 11:56:19 : INFO] - MySQL: 5.5.5 
+[2023-05-05 11:56:19 : INFO] - WPLANG: en_US 
+[2023-05-05 11:56:19 : INFO] - Server: LiteSpeed 
+[2023-05-05 11:56:19 : INFO] - Outbound connections: N 
+[2023-05-05 11:56:19 : INFO] - safe_mode: 0 
+[2023-05-05 11:56:19 : INFO] - max_execution_time: 1500 
+[2023-05-05 11:56:19 : INFO] - memory_limit: 1024M (used: 6.4M | 8M) 
+[2023-05-05 11:56:19 : INFO] - multisite: N 
+[2023-05-05 11:56:19 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 11:56:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 11:56:19 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 11:56:19 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 11:56:19 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2023-05-05 11:56:19 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:20 : INFO] - 75 
+[2023-05-05 11:56:21 : INFO] - Backing up the original image - 2023/05/WhatsApp-Image-2023-05-05-at-17.22.55-e1683287751729-updraft-pre-smush-original.jpg 
+[2023-05-05 11:56:21 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:21 : INFO] - 75 
+[2023-05-05 11:56:22 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:22 : INFO] - 75 
+[2023-05-05 11:56:24 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:24 : INFO] - 75 
+[2023-05-05 11:56:25 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:25 : INFO] - 75 
+[2023-05-05 11:56:26 : INFO] - Re_Smush_It_Task with attachment ID : 296, autocreated on : May 05, 2023 11:55:20 
+[2023-05-05 11:56:27 : INFO] - 75 
+[2023-05-05 11:56:29 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-05-at-17.22.55-e1683287751729.jpg.The file was compressed from 94.58 KB to 82.74 KB saving 12.52 percent using WP-Optimize 
+[2023-05-05 11:56:29 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2023-05-05 11:56:29 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 11:56:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 11:56:29 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 11:56:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 12:02:15 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : May 05, 2023 12:02:15 
+[2023-05-05 12:06:27 : INFO] - 
+ 
+[2023-05-05 12:06:27 : INFO] - Header for logs at time:  Fri, 05 May 2023 12:06:27 +0000 on https://test.dilstream.com 
+[2023-05-05 12:06:27 : INFO] - WP: 6.2 
+[2023-05-05 12:06:27 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 12:06:27 : INFO] - MySQL: 5.5.5 
+[2023-05-05 12:06:27 : INFO] - WPLANG: en_US 
+[2023-05-05 12:06:27 : INFO] - Server: LiteSpeed 
+[2023-05-05 12:06:27 : INFO] - Outbound connections: N 
+[2023-05-05 12:06:27 : INFO] - safe_mode: 0 
+[2023-05-05 12:06:27 : INFO] - max_execution_time: 1500 
+[2023-05-05 12:06:27 : INFO] - memory_limit: 1024M (used: 6.4M | 8M) 
+[2023-05-05 12:06:27 : INFO] - multisite: N 
+[2023-05-05 12:06:27 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 12:06:27 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-05-05 12:06:27 : DEBUG] - Lock option (updraft_lock_smush, test_options) was created in the database 
+[2023-05-05 12:06:27 : INFO] - Lock (updraft_lock_smush, test_options) acquired after initialising the database 
+[2023-05-05 12:06:27 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2023-05-05 12:06:27 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : May 05, 2023 12:02:15 
+[2023-05-05 12:06:27 : INFO] - 75 
+[2023-05-05 12:06:30 : INFO] - Backing up the original image - 2023/05/IMG_20230505_172918.png-updraft-pre-smush-original.png 
+[2023-05-05 12:06:30 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : May 05, 2023 12:02:15 
+[2023-05-05 12:06:30 : INFO] - 75 
+[2023-05-05 12:06:32 : INFO] - Re_Smush_It_Task with attachment ID : 298, autocreated on : May 05, 2023 12:02:15 
+[2023-05-05 12:06:32 : INFO] - 75 
+[2023-05-05 12:06:34 : INFO] - Successfully optimized the image - /home/dilsspky/test.dilstream.com/wp-content/uploads/2023/05/IMG_20230505_172918.png.png.The file was compressed from 361.91 KB to 160.56 KB saving 55.64 percent using WP-Optimize 
+[2023-05-05 12:06:34 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2023-05-05 12:06:34 : INFO] - Lock option (updraft_lock_smush, test_options) released 
+[2023-05-05 12:06:34 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-05-05 12:06:34 : INFO] - Lock option (updraft_lock_smush, test_options) was deleted from the database 
+[2023-05-05 12:06:34 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-05-05 12:17:25 : INFO] - 
+ 
+[2023-05-05 12:17:25 : INFO] - Header for logs at time:  Fri, 05 May 2023 12:17:25 +0000 on https://test.dilstream.com 
+[2023-05-05 12:17:25 : INFO] - WP: 6.2 
+[2023-05-05 12:17:25 : INFO] - PHP: 7.4.33 (litespeed, Linux premium129.web-hosting.com 2.6.32-954.3.5.lve1.4.89.el6.x86_64 #1 SMP Sat May 7 10:18:11 UTC 2022 x86_64) 
+[2023-05-05 12:17:25 : INFO] - MySQL: 5.5.5 
+[2023-05-05 12:17:25 : INFO] - WPLANG: en_US 
+[2023-05-05 12:17:25 : INFO] - Server: LiteSpeed 
+[2023-05-05 12:17:25 : INFO] - Outbound connections: N 
+[2023-05-05 12:17:25 : INFO] - safe_mode: 0 
+[2023-05-05 12:17:25 : INFO] - max_execution_time: 1500 
+[2023-05-05 12:17:25 : INFO] - memory_limit: 1024M (used: 6.4M | 8M) 
+[2023-05-05 12:17:25 : INFO] - multisite: N 
+[2023-05-05 12:17:25 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2023-05-05 12:17:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
