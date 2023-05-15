@@ -1,4 +1,8 @@
 <?php
+# BEGIN WP Cache by 10Web
+define( 'WP_CACHE', true );
+define( 'TWO_PLUGIN_DIR_CACHE', 'D:\Files\XMAPP\htdocs\NCHS-VESAK-2023\wp-content\plugins\tenweb-speed-optimizer/' );
+# END WP Cache by 10Web
 /**
  * The base configuration for WordPress
  *
